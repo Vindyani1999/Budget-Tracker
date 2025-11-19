@@ -8,7 +8,7 @@ import Data.Time (Day)
 -- date: YYYY-MM-DD
 data Transaction = Transaction
   { tDate :: Day
-  , tAmount :: Double -- positive = income, negative = expense
+  , tAmount :: Double 
   , tCategory :: String
   , tNote :: String
   } deriving (Eq, Show)
