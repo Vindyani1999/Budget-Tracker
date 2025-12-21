@@ -1,5 +1,3 @@
--- File: README.md
-
 # Budget Tracker (Haskell) - Mini Project
 
 ## Group members & project title
@@ -57,3 +55,9 @@ ghci Main.hs
 ## Tests
 
 Write GHCi tests or HUnit tests for small functions: `balance`, `monthlySummary`, `categorySummary`.
+
+## Demonstration Video Link 
+```
+https://drive.google.com/file/d/1mMa0aqTmp0lqPhMomiGyr-zY0OSDlrSw/view?usp=sharing
+```
+
